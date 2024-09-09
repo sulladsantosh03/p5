@@ -76,3 +76,14 @@ int main()
  	}
 	printf("\nThe run time is %f\n",clk);
 }
+/*
+Enter the number of employee records: 5
+
+The Employee IDs are:
+62	34	50	28	16
+
+Employee IDs in sorted order:
+16	28	34	50	62
+
+The time taken is 0.989011
+*/
